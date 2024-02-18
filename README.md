@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Parag Dhusiya</h1>
 <h3 align="center">Data Analyst | Python Developer | Power BI Specialist</h3>
 
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV3XcOLfLcVgvZ7VLbcc8kkZMzK1mDo3EMRw&usqp=CAU">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paragdhusiya&label=Profile%20views&color=0e75b6&style=flat" alt="paragdhusiya" /> </p>
 
 - 🌱 I’m currently learning **Data Analytics and Visualization**
