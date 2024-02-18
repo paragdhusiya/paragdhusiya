@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **paragdhusiya@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/parag/OneDrive/Desktop/Resume/Parag_Dhusiya_Resume.pdf](file:///C:/Users/parag/OneDrive/Desktop/Resume/Parag_Dhusiya_Resume.pdf)
+- 📄 Know about my experiences [[file:///C:/Users/parag/OneDrive/Desktop/Resume/Parag_Dhusiya_Resume.pdf](file:///C:/Users/parag/OneDrive/Desktop/Resume/Parag_Dhusiya_Resume.pdf)](https://drive.google.com/file/d/1WYZ9G0kqq5cRwu7uYgN0XHxk_Elq_1mq/view?usp=drivesdk).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
